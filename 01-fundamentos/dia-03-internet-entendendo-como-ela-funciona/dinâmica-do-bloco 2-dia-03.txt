@@ -1,0 +1,20 @@
+O que acontece quando eu digito www.google.com e dou enter?
+
+grupo13 [error404]= {
+    Alessandro Mello,
+    Walace Abreu,
+    Raphael Barzotto,
+    Cícero Henrique Gomes,
+    Rafael Henrique
+    Antônio Carlos Lins,
+    Murilo Henrique Carrijo,
+}
+
+Primeira função: O computador deve mandar a informação para os servidores
+    - O balanceador de carga gerencia o tráfego de informações 
+    - O servidor web recebe a requisiçao (recurso)
+    - O banco de dados transforma o recurso em um endereço de IP 
+    - O banco de dados retorna os dados deste IP para o servidor web
+    - O servidor web manda uma resposta para o cliente com a permissão de acesso ao IP
+    - O balanceador de carga gerencia o tráfego de informações
+    - O cliente monta graficamente o site requisitado
