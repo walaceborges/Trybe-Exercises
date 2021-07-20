@@ -7,7 +7,7 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 
-### Bloco 1: [Introdução - Unix & Shell](https://github.com/GabrielJorge94/trybe-assignments/tree/master/01-fundamentals/01-unix-and-shell)
+### Bloco 1: [Introdução - Unix & Shell](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-01-unix-bash-e-shell-script)
 
 :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
 
@@ -15,7 +15,7 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 :ballot_box_with_check: 1-4: _Unix & Shell- Part 2_
 
 
-### Bloco 2: [Git & GitHub]()
+### Bloco 2: [Git & GitHub](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-02-git-github-e-internet)
 
 :ballot_box_with_check: 2-1: _O que é e para que serve?_
 
