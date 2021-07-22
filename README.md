@@ -24,7 +24,7 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 :ballot_box_with_check: 2-3: _Internet - Entendendo como ela funciona_
 
 
-### Bloco 3: Introdução - HTML & CSS
+### Bloco 3: Introdução - [HTML & CSS](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-03-introducao-a-html-e-css)
 
 :ballot_box_with_check: 3-1: _HTML & CSS - Estruturas de página_
 
