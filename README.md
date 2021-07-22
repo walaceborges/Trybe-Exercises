@@ -26,11 +26,11 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 ### Bloco 3: Introdução - HTML & CSS
 
-:black_large_square: 3-1: _HTML & CSS - Estruturas de página_
+:ballot_box_with_check: 3-1: _HTML & CSS - Estruturas de página_
 
-:black_large_square: 3-2: _HTML & CSS - Primeiros passos em CSS_
+:ballot_box_with_check: 3-2: _HTML & CSS - Primeiros passos em CSS_
 
-:black_large_square: 3-3: _HTML & CSS - Seletores e posicionamento_
+:ballot_box_with_check: 3-3: _HTML & CSS - Seletores e posicionamento_
 
 :black_large_square: 3-4: _HTML Semântico_
 
