@@ -36,3 +36,16 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 3-5: _Projeto - Lessons Learned_
 
+
+### Bloco 4: Introdução - [JavaScript e Lógica](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
+
+:ballot_box_with_check: 4-1: _JavaScript - Primeiros passos_
+
+:ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
+
+:black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+
+:black_large_square: 4-4: _JavaScript - Objetos e funções_
+
+:black_large_square: 4-5: _Projeto - Playground Functions_
+
