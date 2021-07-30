@@ -47,7 +47,6 @@ for (let index = 0; index < numbers.length; index++){
     if (armazenamentoAtual > armazenamentoMaior){
         armazenamentoMaior = numbers[index]
     }
-    
 }
 console.log("Esse numero é o :" , armazenamentoMaior)
 
