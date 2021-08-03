@@ -43,9 +43,9 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
-:black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+:ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
-:black_large_square: 4-4: _JavaScript - Objetos e funções_
+:ballot_box_with_check: 4-4: _JavaScript - Objetos e funções_
 
-:black_large_square: 4-5: _Projeto - Playground Functions_
+:ballot_box_with_check: 4-5: _Projeto - Playground Functions_
 
