@@ -33,4 +33,9 @@ let infoSecond = {
     origem: 'Christmas on Bear Mountain, Dell’s Four Color Comics #178',
     nota: 'O último MacPatinhas',
     recorrente: 'Sim',
+};
+
+for (let key in info){
+
+    console.log(info[key] + " e " + infoSecond[key])
 }
