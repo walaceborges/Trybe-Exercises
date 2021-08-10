@@ -51,9 +51,9 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 ### Bloco 5: Javascript: [DOM, Eventos e Web Storage](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/dia-1-javascript-dom-e-seletores)
 
-:black_large_square: 5-1: _JavaScript - DOM e seletores_
+:ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
 
-:black_large_square: 5-2: _JavaScript - Trabalhando com elementos_
+:ballot_box_with_check: 5-2: _JavaScript - Trabalhando com elementos_
 
 :black_large_square: 5-3: _JavaScript - Eventos_
 
