@@ -70,12 +70,19 @@
           correctText()
         // Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
           function upText (){
-            let qualquercoisa = document.getElementsByTagName("p")[2]
-            qualquercoisa.innerText = qualquercoisa.innerText.toUpperCase()
+            let textOld = document.getElementsByTagName("p")[2];
+            let textUppercase = textOld.innerText.toUpperCase();
+            textOld.innerText = textUppercase
           }
           upText()
         // Crie uma função que exiba o conteúdo de todas as tags <p> no console.
-        
+          function allTagP (){
+            let tagOld = document.getElementsByTagName("p");
+            for (let index = 0; index < tagOld.length; index ++){
+                console.log(tagOld[index].innerText);
+            }
+          }
+          allTagP();
     </script>
   </body>
 </html>
