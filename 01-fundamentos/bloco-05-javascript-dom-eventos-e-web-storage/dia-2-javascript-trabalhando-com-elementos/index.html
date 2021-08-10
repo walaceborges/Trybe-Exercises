@@ -76,9 +76,21 @@
         adcElementMain()
         // Adicione a tag section com a classe center-content como filho da tag main criada no passo 2;
         function adcElementSection(){
-            let elementDad = document.elementMain;
-            let elementSection = 
+        let elementDadMain = document.querySelector("main");
+        let elementSection = document.createElement("section");
+        elementSection.className = "center-content"
+        elementDadMain.appendChild(elementSection)
         }
+        adcElementSection()
+        // Adicione a tag p como filho do section criado no passo 3 e coloque algum texto;
+        function adcElementP(){
+        let elementDadSection = document.querySelector("section")
+        let elementP = document.createElement("p")
+        let textP = document.createTextNode("Dom Perignon")
+        elementP.appendChild(textP);
+        elementDadSection.appendChild(elementP)
+        }
+        adcElementP()
     </script>
   </body>
 </html>
