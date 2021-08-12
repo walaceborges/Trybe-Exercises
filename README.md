@@ -55,9 +55,9 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 5-2: _JavaScript - Trabalhando com elementos_
 
-:black_large_square: 5-3: _JavaScript - Eventos_
+:ballot_box_with_check: 5-3: _JavaScript - Eventos_
 
-:black_large_square:  5-4: _JavaScript - Web Storage_
+:ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
 :black_large_square: 5.5: _Projeto: Arte com Pixels_
 
