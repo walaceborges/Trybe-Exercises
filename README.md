@@ -49,7 +49,7 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 4-5: _Projeto - Playground Functions_
 
-### Bloco 5: Javascript: [DOM, Eventos e Web Storage](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/dia-1-javascript-dom-e-seletores)
+### Bloco 5: Javascript: [DOM, Eventos e Web Storage](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
 
 :ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
 
