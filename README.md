@@ -63,9 +63,9 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 5-6: _Projeto - Lista de tarefas_
 
-:black_large_square: 5-7: _Projeto Bônus - Meme Generator_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Meme Generator_
 
-:black_large_square: 5-7: _Projeto Bônus - Adivinhe a cor_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Adivinhe a cor_
 
-:black_large_square: 5-7: _Projeto Bônus - Carta Misteriosa_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Carta Misteriosa_
 
