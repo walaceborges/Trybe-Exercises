@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
     <script  src ="DatePickerX-master/dist/js/DatePickerX.min.js"></script>
+    <script src="node_modules/just-validate/dist/js/just-validate.min.js"></script>
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="DatePickerX-master/dist/css/DatePickerX.min.css">
     <link rel="stylesheet" href="style.css">
@@ -23,15 +24,15 @@
     <form class="form-horizontal">
         <div class="form-group">
             <label for="name">Nome</label>
-            <input class="form-control" type="text" name="name" id="name" maxlength="40" required>
+            <input class="form-control" type="text" name="name" id="name" maxlength="40" data-validate-field="name" required>
         </div>
         <div class="form-group">
             <label for="email">Endereço de e-mail:</label>
-            <input class="email-input form-control" type="email" name="email" id="email" maxlength="50" required>
+            <input class="email-input form-control" type="email" name="email" id="email" maxlength="50" data-validate-field="email" required>
         </div>
         <div class="form-group">
             <label for="cpf-numbers">CPF:</label>
-            <input class="form-control" type="text" name="cpf" id="cpf-numbers" maxlength="11" required>
+            <input class="form-control" type="text" name="cpf" id="cpf-numbers" maxlength="50" data-validate-field="cpf"required>
         </div>
         <div class="form-group">
             <label for="adress">Endereço:</label>
@@ -65,18 +66,19 @@
         </div>
         <div class="form-group">
             <label for="officeDescription">Descrição do cargo:</label>
-            <input class="form-control" type="text" name="officeDescription" id="officeDescription" maxlength="500"
-                required>
+            <input class="form-control" type="text" name="officeDescription" id="officeDescription" maxlength="500" required>
         </div>
 
         <div class="form-group">
             <label class="form-label" for="data-inicio">Data de Início:</label>
-            <input class="form-control" placeholder="dd/mm/yyyy" id="data-inicio" name="data-inicio" type="text">
+            <input class="form-control" placeholder="dd/mm/yyyy" id="data-inicio" name="data-inicio" type="text" required>
         </div>
+
+        <button type="submit" class="btn btn-primary submit-button" type="button">Enviar</button>
+        <button type="button" class="btn btn-danger clear-button">Limpar</button>
     </form>
     </main>
 
 </body>
 <script src="script.js"></script>
-
 </html>
