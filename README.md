@@ -11,7 +11,6 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 1-3: _Unix & Shell- Part 1_
 
-
 :ballot_box_with_check: 1-4: _Unix & Shell- Part 2_
 
 
@@ -49,6 +48,7 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 4-5: _Projeto - Playground Functions_
 
+
 ### Bloco 5: Javascript: [DOM, Eventos e Web Storage](https://github.com/walaceborges/Trybe-Exercises/tree/main/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
 
 :ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
@@ -69,6 +69,7 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 5-7: _Projeto Bônus - Carta Misteriosa_
 
+
 ### Bloco 6: [HTML & CSS avançado](https://github.com/walaceborges/Trybe-Exercises/tree/exercicios/6.1/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo/dia-1-html-css-forms)
 
 :ballot_box_with_check: 6-1: _HTML & CSS - Forms_
@@ -82,4 +83,30 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 :ballot_box_with_check: 6-5: _CSS Responsivo - Mobile First_
 
 :ballot_box_with_check: 6-6: _Projeto - Trybewarts_
+
+
+### Bloco 7: JavaScript ES6 & Testes Unitários
+
+:black_large_square: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+
+:black_large_square: 7-2: _JavaScript ES6 - Objects_
+
+:black_large_square: 7-3: _Testes unitários em JavaScript_
+
+:black_large_square: 7-4: _Projeto - JavaScript Testes Unitários_
+
+
+### Bloco 8: Higher Order Functions do JavaScript ES6
+
+:black_large_square:8-1: _JavaScript ES6 - Introdução Higher Order Functions_
+
+:black_large_square: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+
+:black_large_square: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+
+:black_large_square: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+
+:black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+
+:black_large_square: 8-5: _Projeto - Zoo functions_
 
