@@ -110,3 +110,103 @@ Este repositório contêm todas as atividades de aprendizagem que estão sendo d
 
 :ballot_box_with_check: 8-5: _Projeto - Zoo functions_
 
+
+### Bloco 9: Javascript Assíncrono e Promises
+
+:ballot_box_with_check: 9-1: _JavaScript Assíncrono e Callbacks_
+
+:ballot_box_with_check: 9-2: _JavaScript Promises_
+
+:ballot_box_with_check: 9-3: _Projeto - Carrinho de Compras_
+
+
+### Bloco 10: Testes automatizados com Jest
+
+:ballot_box_with_check: 10-1: _Primeiros passos no Jest_
+
+:ballot_box_with_check: 10-2: _Jest - Testes Assíncronos_
+
+:ballot_box_with_check: 10-3: _Jest - Simulando comportamentos_
+
+:ballot_box_with_check: 10-4: _Projeto - Jest Assíncrono e Mocking_
+
+  
+## Desenvolvimento Front-end :hourglass_flowing_sand:
+
+
+### Bloco 11: Introdução - React
+
+:black_large_square: 11-1: _'Hello, world!' no React!_
+
+:black_large_square: 11-2: _Componentes React_
+
+:black_large_square: 11-3: _Projeto - Movie Cards Library_
+
+ 
+### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+
+:black_large_square: 12-1: _Components com estado e eventos_
+
+:black_large_square: 12-2: _Formulários no React_
+:black_large_square: 12-3: _Projeto - Movie Cards Library Stateful_
+
+### Bloco 13: Ciclo de Vida de Componentes e React Router
+
+:black_large_square: 13-1: _Ciclo de vida de componentes_
+:black_large_square: 13-2: _React Router_
+
+:black_large_square: 13-3: _Projeto - Movie Cards Library CRUD_
+
+
+### Bloco 14: Metodologias ágeis
+
+:black_large_square: 14-1: _Metodologias ágeis_
+
+:black_large_square: 14-2: _Projeto - Frontend Online Store_
+
+### Bloco 15: Testes automatizados com React Testing Library
+
+:black_large_square: 15-1: _RTL - Primeiros Passos_
+
+:black_large_square: 15-2: _RTL - Mocks e Inputs_
+
+:black_large_square: 15-2: _RTL: Testando com React Router_
+
+:black_large_square: 15-3: _Projeto - Testes em React_
+
+
+### Bloco 16: Introdução ao Redux
+
+:black_large_square: 16-1: _Introdução ao Redux - O estado global da aplicação_
+
+:black_large_square: 16-2: _Usando o Redux no React_
+
+:black_large_square: 16-3: _Usando o Redux no React - Prática_
+
+:black_large_square: 16-4: _Usando o Redux no React - Actions Assíncronas_
+
+:black_large_square: 16-5: _Testes em React-Redux_
+
+:black_large_square:16-6: _Projeto - Trybe Wallet_
+  
+
+### Bloco 17: Projeto React
+
+:black_large_square: 17-1: _Projeto - Jogo de Trivia_
+
+
+### Bloco 18: Context API & Reack Hooks
+
+:black_large_square: 18-1: _Context API do React_
+
+:black_large_square: 18-2: _React Hooks - useState e useContext_
+
+:black_large_square: 18-3: _React Hooks - useEffect e Hooks customizados_
+
+:black_large_square: 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
+
+
+### Bloco 19: Projeto Final de Front-end
+
+:black_large_square: 19-1: _Projeto - App de Receitas_
+
